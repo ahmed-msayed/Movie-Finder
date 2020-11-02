@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Movie-Finder
+//  Movies Finder
 //
-//  Created by Ahmed Sayed on 11/2/20.
+//  Created by Ahmed Sayed on 7/21/20.
 //  Copyright © 2020 Ahmed Sayed. All rights reserved.
 //
 

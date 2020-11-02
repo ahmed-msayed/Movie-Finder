@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Movie-Finder.xcodeproj">
+      location = "self:/Volumes/work/Ahmed/Movie-Finder/Movie-Finder.xcodeproj">
    </FileRef>
 </Workspace>
